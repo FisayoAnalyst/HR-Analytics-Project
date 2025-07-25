@@ -88,9 +88,10 @@ The HR Analytics Dashboard summarizes:
 
 5. Strengthen inclusivity and employee engagement programs
 
+### Reort Access
 
 You can read the full technical report in PDF format:
-➡️ Download HR Analytics Report (PDF) ← Upload the PDF and replace the link
+➡️ Download HR Analytics Report (PDF)
 
 ### Dashboard Access
 To explore the interactive visuals, open the Excel dashboard file:
