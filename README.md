@@ -94,5 +94,5 @@ You can read the full technical report in PDF format:
 
 ### Dashboard Access
 To explore the interactive visuals, open the Excel dashboard file:
-➡️ Download the HR Dashboard File ← Upload the Excel file and replace the link
+➡️ Download the HR Dashboard File (https://github.com/FisayoAnalyst/HR-Analytics-Project/blob/main/Human%20Resouces.xlsx)
 
