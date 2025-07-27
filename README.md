@@ -1,5 +1,28 @@
 # HR Analytics Project
 
+### Table of Contents
+[Overview](#overview)
+
+[Objective](#objective)
+
+[Dataset Information](#dataset-information)
+
+[Tools Used](#tools-used)
+
+[Data Cleaning & Transformation](#data-cleaning--transformation)
+
+[Dashboard Overview](#dashboard-overview)
+
+[Key Findings](#key-findings)
+
+[Recommendations](#recommendations)
+
+[Conclusion](#conclusion)
+
+[Report Access](#report-access)
+
+[Dashboard Access](#dashboard-access)
+
 ### Overview
 
 This HR Analytics project explores key workforce trends using Excel-based data analysis. The focus is on understanding attrition drivers, job satisfaction, and managerial impact on employee engagement. The insights are designed to guide human resource teams in making informed, data-driven decisions for improving retention and workplace well-being.
@@ -20,7 +43,8 @@ This analysis was conducted to:
 
 ### Dataset Information
 
-**Source**: Kaggle.com
+**Source**: [Kaggle.com](https://www.kaggle.com/)
+
 
 **Key Attributes**:
 
@@ -88,7 +112,13 @@ The HR Analytics Dashboard summarizes:
 
 5. Strengthen inclusivity and employee engagement programs
 
-### Reort Access
+### Conclusion
+
+This HR analytics project provided key insights into workforce trends such as attrition patterns, departmental distribution, age segmentation, and job satisfaction levels. Using Excel, I was able to clean the data, create visualizations, and uncover areas that can inform better HR decisions.
+
+The analysis highlights the importance of data in addressing employee retention, engagement, and compensation planning. This project demonstrates how simple tools like Excel can support strategic workforce management through clear, actionable insights.
+
+### Report Access
 
 You can read the full technical report in PDF format:
 ➡️ Download HR Analytics Report (PDF)
