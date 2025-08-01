@@ -121,7 +121,7 @@ The analysis highlights the importance of data in addressing employee retention,
 ### Report Access
 
 You can read the full technical report in PDF format:
-➡️ Download HR Analytics Report (PDF)
+➡️ Download HR Analytics Report (PDF) (https://github.com/FisayoAnalyst/HR-Analytics-Project/blob/main/HR_Analytics_Report.pdf)
 
 ### Dashboard Access
 
